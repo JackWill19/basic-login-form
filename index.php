@@ -29,7 +29,7 @@
                 <h2>Username:</h2>
                 <input class="text-input" type="text" name="username" id="username" placeholder="Enter Username">
                 <h2>Password:</h2>
-                <input class="text-input" type="text" name="password" id="password" placeholder="Enter Password">
+                <input class="text-input" type="password" name="password" id="password" placeholder="Enter Password">
                 <input class="submit-btn" type="submit" name="submit" value="Submit">
             </div>
         </div>
